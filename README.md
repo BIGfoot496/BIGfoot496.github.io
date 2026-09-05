@@ -1,1 +1,1 @@
-# BIGfoot496.github.io
+A bored nerd’s bare bones blog
