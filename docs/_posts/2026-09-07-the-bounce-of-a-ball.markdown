@@ -3,7 +3,8 @@ layout: posts
 title:  "The Bounce of a Ball"
 category: "A paper a day"
 date: 2026-09-06
-tag: quantum mechanics
+tag: high school
+tag: mechanics
 ---
 
 ## A paper a day: day 2

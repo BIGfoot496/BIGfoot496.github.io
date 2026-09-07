@@ -7,7 +7,7 @@ var store = [{
       },{
         "title": "The Bounce of a Ball",
         "excerpt":"A paper a day: day 2 Today’s paper comes from the journal that I discovered only last week, but it’s quickly becoming one of my favourites. “American Journal of Physics”, despite the grandiose name, is actually created by and for physics teachers, and hence most articles are hyper readable and...","categories": ["A paper a day"],
-        "tags": ["quantum mechanics"],
+        "tags": ["mechanics"],
         "url": "/a%20paper%20a%20day/2026/09/06/the-bounce-of-a-ball.html",
         "teaser": null
       }]
