@@ -10,4 +10,10 @@ var store = [{
         "tags": ["high school","mechanics"],
         "url": "/a%20paper%20a%20day/2026/09/07/the-bounce-of-a-ball.html",
         "teaser": null
+      },{
+        "title": "A simple derivation for the skin effect in a round wire",
+        "excerpt":"A paper a day: day 3 Today’s paper is my admission of defeat. First, I tried reading Horace Lamb’s original 1883 paper, but after like four pages I had to drop it. Not only does he operate in components of vectors, and writes triples of equations for everything, rather than...","categories": ["A paper a day"],
+        "tags": ["electromagnetism"],
+        "url": "/a%20paper%20a%20day/2026/09/08/a-simple-derivation-for-the-skin-effect-in-a-round-wire.html",
+        "teaser": null
       }]

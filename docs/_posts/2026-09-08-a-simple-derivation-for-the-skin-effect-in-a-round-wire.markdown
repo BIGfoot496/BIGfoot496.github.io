@@ -2,7 +2,7 @@
 layout: posts
 title:  "A simple derivation for the skin effect in a round wire"
 category: "A paper a day"
-date: 2026-09-09
+date: 2026-09-08
 tags: 
     - electromagnetism
 ---
