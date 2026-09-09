@@ -16,4 +16,10 @@ var store = [{
         "tags": ["electromagnetism"],
         "url": "/a%20paper%20a%20day/2026/09/08/a-simple-derivation-for-the-skin-effect-in-a-round-wire.html",
         "teaser": null
+      },{
+        "title": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid",
+        "excerpt":"A paper a day: day 4 The reason today’s paper is what it is – it’s surprisingly short, just a tiny bit longer than a single page, and I was lazy today. Despite having spent four years in uni studying bio, I never bothered to even search for this particular...","categories": ["A paper a day"],
+        "tags": ["molecular biology","nobel prize"],
+        "url": "/a%20paper%20a%20day/2026/09/09/molecular-structure-of-nucleic-acids.html",
+        "teaser": null
       }]
