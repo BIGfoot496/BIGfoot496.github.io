@@ -22,4 +22,10 @@ var store = [{
         "tags": ["molecular biology","nobel prize"],
         "url": "/a%20paper%20a%20day/2026/09/09/molecular-structure-of-nucleic-acids.html",
         "teaser": null
+      },{
+        "title": "On the Law of Distribution of Energy in the Normal Spectrum",
+        "excerpt":"A paper a day: day 5 Today I spent reviewing blackbody radiation laws, hence this paper. I first read Planck’s 1900 paper (I strongly suspect it is rather a lecture transcript), and it’s literally just “I love Wien’s law, I find it beautiful, but it’s sadly kinda wrong for large...","categories": ["A paper a day"],
+        "tags": ["thermodynamics","quantum mechanics","nobel prize"],
+        "url": "/a%20paper%20a%20day/2026/09/10/on-the-law-of-distribution-of-energy-in-the-normal-spectrum.html",
+        "teaser": null
       }]
