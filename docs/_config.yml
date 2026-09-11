@@ -32,6 +32,8 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+markdown: kramdown
+
 defaults:
   # _posts
   - scope:
