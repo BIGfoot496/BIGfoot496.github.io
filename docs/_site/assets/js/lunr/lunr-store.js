@@ -28,4 +28,10 @@ var store = [{
         "tags": ["thermodynamics","quantum mechanics","nobel prize"],
         "url": "/a%20paper%20a%20day/2026/09/10/on-the-law-of-distribution-of-energy-in-the-normal-spectrum.html",
         "teaser": null
+      },{
+        "title": "Electron Radiated Power in Cyclotron Radiation Emission Spectroscopy Experiments",
+        "excerpt":"A paper a day: day 6 Truth be told, today’s paper was pretty dang hard for me to read. If you’ve read anything complicated ever, you know how it is: you see some topic mentioned that you are unfamiliar with, so you go search for it, and its explanation references...","categories": ["A paper a day"],
+        "tags": ["electromagnetism","spectroscopy"],
+        "url": "/a%20paper%20a%20day/2026/09/11/electron-radiated-power-in-cres-experiments.html",
+        "teaser": null
       }]
