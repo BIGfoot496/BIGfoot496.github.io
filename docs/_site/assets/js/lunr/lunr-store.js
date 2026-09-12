@@ -36,7 +36,7 @@ var store = [{
         "teaser": null
       },{
         "title": "A comparative approach to the evolution of kissing",
-        "excerpt":"A paper a day: day 6 The 2026 Igs were held a couple weeks ago, I wanted a fun lighthearted read today, so I decided to read one of the winning papers. The prize was awarded for devising a more precise definition of kissing – “non-agonistic interactions involving directed, intraspecific,...","categories": ["A paper a day"],
+        "excerpt":"A paper a day: day 7 The 2026 Igs were held a couple weeks ago, I wanted a fun lighthearted read today, so I decided to read one of the winning papers. The prize was awarded for devising a more precise definition of kissing – “non-agonistic interactions involving directed, intraspecific,...","categories": ["A paper a day"],
         "tags": ["Ig Nobel prize","evolution"],
         "url": "/a%20paper%20a%20day/2026/09/12/a-comparative-approach-to-the-evolution-of-kissing.html",
         "teaser": null
