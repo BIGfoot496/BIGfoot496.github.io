@@ -46,4 +46,10 @@ var store = [{
         "tags": ["electromagnetism"],
         "url": "/a%20paper%20a%20day/2026/09/19/the-electromotive-force-produced-by-the-acceleration-of-metals.html",
         "teaser": null
+      },{
+        "title": "A decagon wave around Saturn’s south pole",
+        "excerpt":"A paper a day: day 9 I’m not gonna write about seven papers today, for each day I missed, but I already wrote a post about this one before my laptop went unresponsive, I like it and I’d like to keep a link to it. Saturn’s north pole hexagon has...","categories": ["A paper a day"],
+        "tags": ["astronomy","astrophysics","solar system"],
+        "url": "/a%20paper%20a%20day/2026/09/19/a-decagon-wave-around-saturns-south-pole.html",
+        "teaser": null
       }]

@@ -2,7 +2,7 @@
 layout: posts
 title:  "A decagon wave around Saturn’s south pole"
 category: "A paper a day"
-date: 2026-09-19 22:00:00
+date: 2026-09-19 22:00:00 +0300
 tags: 
     - astronomy
     - astrophysics
