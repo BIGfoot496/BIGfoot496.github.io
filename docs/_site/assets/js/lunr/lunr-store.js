@@ -40,4 +40,10 @@ var store = [{
         "tags": ["Ig Nobel prize","evolution"],
         "url": "/a%20paper%20a%20day/2026/09/12/a-comparative-approach-to-the-evolution-of-kissing.html",
         "teaser": null
+      },{
+        "title": "The electromotive force produced by the acceleration of metals",
+        "excerpt":"A paper a day: day 8 I missed an entire week, but I have a good excuse: my laptop developed a rapidly progressing dementia just as I was writing a post, and I had literally no way to post anything for a while. I’m back, and hopefully won’t have such...","categories": ["A paper a day"],
+        "tags": ["electromagnetism"],
+        "url": "/a%20paper%20a%20day/2026/09/19/the-electromotive-force-produced-by-the-acceleration-of-metals.html",
+        "teaser": null
       }]
