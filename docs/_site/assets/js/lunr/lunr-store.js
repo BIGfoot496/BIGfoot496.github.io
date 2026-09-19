@@ -37,8 +37,14 @@ var store = [{
       },{
         "title": "A comparative approach to the evolution of kissing",
         "excerpt":"A paper a day: day 7 The 2026 Igs were held a couple weeks ago, I wanted a fun lighthearted read today, so I decided to read one of the winning papers. The prize was awarded for devising a more precise definition of kissing – “non-agonistic interactions involving directed, intraspecific,...","categories": ["A paper a day"],
-        "tags": ["Ig Nobel prize","evolution"],
+        "tags": ["ig nobel prize","evolution"],
         "url": "/a%20paper%20a%20day/2026/09/12/a-comparative-approach-to-the-evolution-of-kissing.html",
+        "teaser": null
+      },{
+        "title": "A decagon wave around Saturn’s south pole",
+        "excerpt":"A paper a day: day 9 I’m not gonna write about seven papers today, for each day I missed, but I already wrote a post about this one before my laptop went unresponsive, I like it and I’d like to keep a link to it. Saturn’s north pole hexagon has...","categories": ["A paper a day"],
+        "tags": ["astronomy","astrophysics","solar system"],
+        "url": "/a%20paper%20a%20day/2026/09/19/a-decagon-wave-around-saturns-south-pole.html",
         "teaser": null
       },{
         "title": "The electromotive force produced by the acceleration of metals",
