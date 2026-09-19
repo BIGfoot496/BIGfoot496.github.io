@@ -4,7 +4,7 @@ title:  "A comparative approach to the evolution of kissing"
 category: "A paper a day"
 date: 2026-09-12
 tags: 
-    - Ig Nobel prize
+    - ig nobel prize
     - evolution
 ---
 
