@@ -52,4 +52,10 @@ var store = [{
         "tags": ["astronomy","astrophysics","solar system"],
         "url": "/a%20paper%20a%20day/2026/09/19/a-decagon-wave-around-saturns-south-pole.html",
         "teaser": null
+      },{
+        "title": "Reconstructing food plant terms and associated terminologies in Proto Oceanic",
+        "excerpt":"A paper a day: day 10 Today’s paper is the first installment of linguistics here. I haven’t read ling papers for months, turns out I missed them :-) This one is mostly a giant sequence of cognate lists together with a reconstruction of the POc root, but there were a...","categories": ["A paper a day"],
+        "tags": ["historical linguistics","oceanic languages"],
+        "url": "/a%20paper%20a%20day/2026/09/20/reconstructing-food-plant-terms-and-associated-terminologies-in-proto-oceanic.html",
+        "teaser": null
       }]
