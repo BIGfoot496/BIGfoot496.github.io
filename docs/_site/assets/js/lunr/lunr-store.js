@@ -58,4 +58,10 @@ var store = [{
         "tags": ["historical linguistics","oceanic languages"],
         "url": "/a%20paper%20a%20day/2026/09/20/reconstructing-food-plant-terms-and-associated-terminologies-in-proto-oceanic.html",
         "teaser": null
+      },{
+        "title": "Soil health assessment using buried cotton underpants with the help of 1000 citizen scientists",
+        "excerpt":"A paper a day: day 11 Today’s paper speaks for itself. While it was as much an awareness campaign as a scientific study, it was quite successful at both. Underpants decomposition does indeed provide a reasonable proxy for soil microbial activity (at least comparable with other existing heuristics), and it...","categories": ["A paper a day"],
+        "tags": ["ig nobel prize","citizen science"],
+        "url": "/a%20paper%20a%20day/2026/09/21/soil-health-assessment-using-buried-cotton-underpants.html",
+        "teaser": null
       }]
