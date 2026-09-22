@@ -64,4 +64,10 @@ var store = [{
         "tags": ["ig nobel prize","citizen science"],
         "url": "/a%20paper%20a%20day/2026/09/21/soil-health-assessment-using-buried-cotton-underpants.html",
         "teaser": null
+      },{
+        "title": "Ancient Egyptian Cereal Processing: Beyond the Artistic Record",
+        "excerpt":"A paper a day: day 12 Why archaeology today? Welllll, I was ordering a bunch of cereals, and wondered which ones were used in ancient Egypt (the answer is mostly emmer and barley), as one does, and… Anyway, today’s paper is a bit of a rant, just the way I...","categories": ["A paper a day"],
+        "tags": ["experimental archaeology","ancient egypt"],
+        "url": "/a%20paper%20a%20day/2026/09/22/ancient-egyptian-cereal-processing.html",
+        "teaser": null
       }]
