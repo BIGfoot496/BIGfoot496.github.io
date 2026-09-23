@@ -70,4 +70,10 @@ var store = [{
         "tags": ["experimental archaeology","ancient egypt"],
         "url": "/a%20paper%20a%20day/2026/09/22/ancient-egyptian-cereal-processing.html",
         "teaser": null
+      },{
+        "title": "Observation of the magnetic spin Hall effect in a ferromagnet",
+        "excerpt":"A paper a day: day 13 Today’s paper is for work, rather than purely for fun. I still don’t feel I understand everything the authors did, and why they did that, but here’s what I got. They made a device for producing and measuring spin Hall effect in a choice...","categories": ["A paper a day"],
+        "tags": ["electromagnetism","hall effect","condensed matter"],
+        "url": "/a%20paper%20a%20day/2026/09/23/observation-of-the-magnetic-spin-hall-effect-in-a-ferromagnet.html",
+        "teaser": null
       }]
