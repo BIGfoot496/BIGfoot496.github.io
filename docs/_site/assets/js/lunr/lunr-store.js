@@ -82,4 +82,10 @@ var store = [{
         "tags": ["electromagnetism","hall effect","condensed matter"],
         "url": "/a%20paper%20a%20day/2026/09/24/high-throughput-techniques-for-measuring-the-spin-hall-effect.html",
         "teaser": null
+      },{
+        "title": "Magneto-Optical Detection of the Spin Hall Effect in Pt and W Thin Films",
+        "excerpt":"A paper a day: day 15 Today’s paper is a continuation of my exploration of ways of measuring spin Hall effect. This time, the technique uses magneto-optic Kerr effect: spin Hall effect leads to spin accumulation on the surface of the wire, and thus, if you light the wire up...","categories": ["A paper a day"],
+        "tags": ["electromagnetism","hall effect","condensed matter"],
+        "url": "/a%20paper%20a%20day/2026/09/25/magneto-optical-detection-of-the-spin-hall-effect-in-pt-and-w-thin-films.html",
+        "teaser": null
       }]
