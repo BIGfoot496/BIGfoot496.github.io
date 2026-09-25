@@ -76,4 +76,10 @@ var store = [{
         "tags": ["electromagnetism","hall effect","condensed matter"],
         "url": "/a%20paper%20a%20day/2026/09/23/observation-of-the-magnetic-spin-hall-effect-in-a-ferromagnet.html",
         "teaser": null
+      },{
+        "title": "High-throughput techniques for measuring the spin Hall effect",
+        "excerpt":"A paper a day: day 14 Today’s paper is again for work, as will probably be several following ones. I’m trying to figure out methods for measuring SHE (awful abbreviation, makes it annoying to search), and this paper was a great start for that. The three methods covered here are...","categories": ["A paper a day"],
+        "tags": ["electromagnetism","hall effect","condensed matter"],
+        "url": "/a%20paper%20a%20day/2026/09/24/high-throughput-techniques-for-measuring-the-spin-hall-effect.html",
+        "teaser": null
       }]
