@@ -88,4 +88,10 @@ var store = [{
         "tags": ["electromagnetism","hall effect","condensed matter"],
         "url": "/a%20paper%20a%20day/2026/09/25/magneto-optical-detection-of-the-spin-hall-effect-in-pt-and-w-thin-films.html",
         "teaser": null
+      },{
+        "title": "Fitting A Person Into An NMR Spectrometer",
+        "excerpt":"A paper a day: day 16 Today’s paper is from a venerable publication called The Journal of Immaterial Science that since 2021 has been getting out chuckles and snorts immune to the reproducibility crisis. Having worked several years in an NMR lab, I find this particular paper especially hilarious. The...","categories": ["A paper a day"],
+        "tags": ["joke","nmr"],
+        "url": "/a%20paper%20a%20day/2026/09/26/fitting-a-person-into-an-nmr-spectrometer.html",
+        "teaser": null
       }]
