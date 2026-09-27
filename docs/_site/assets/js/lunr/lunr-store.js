@@ -79,7 +79,7 @@ var store = [{
       },{
         "title": "High-throughput techniques for measuring the spin Hall effect",
         "excerpt":"A paper a day: day 14 Today’s paper is again for work, as will probably be several following ones. I’m trying to figure out methods for measuring SHE (awful abbreviation, makes it annoying to search), and this paper was a great start for that. The three methods covered here are...","categories": ["A paper a day"],
-        "tags": ["electromagnetism","hall effect","condensed matter"],
+        "tags": ["electromagnetism","hall effect","condensed matter","spectroscopy"],
         "url": "/a%20paper%20a%20day/2026/09/24/high-throughput-techniques-for-measuring-the-spin-hall-effect.html",
         "teaser": null
       },{
@@ -93,5 +93,11 @@ var store = [{
         "excerpt":"A paper a day: day 16 Today’s paper is from a venerable publication called The Journal of Immaterial Science that since 2021 has been getting out chuckles and snorts immune to the reproducibility crisis. Having worked several years in an NMR lab, I find this particular paper especially hilarious. The...","categories": ["A paper a day"],
         "tags": ["joke","nmr"],
         "url": "/a%20paper%20a%20day/2026/09/26/fitting-a-person-into-an-nmr-spectrometer.html",
+        "teaser": null
+      },{
+        "title": "Pigeons (Columba livia) as Trainable Observers of Pathology and Radiology Breast Cancer Images",
+        "excerpt":"A paper a day: day 17 Today’s paper is one of those “could be cool” kinds of experiment. Skinner did get an Ig Nobel for pigeon missiles, after all, so why can’t pigeon histopathologists work just as well? And yup, they do. The experiment design was eerily similar to basic...","categories": ["A paper a day"],
+        "tags": ["operant conditioning","pigeons","histopathology","radiology"],
+        "url": "/a%20paper%20a%20day/2026/09/27/pigeons-as-trainable-observers-of-pathology-and-radiology-breast-cancer-images.html",
         "teaser": null
       }]

@@ -7,6 +7,7 @@ tags:
     - electromagnetism
     - hall effect
     - condensed matter
+    - spectroscopy
 ---
 
 ## A paper a day: day 14
