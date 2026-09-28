@@ -100,4 +100,10 @@ var store = [{
         "tags": ["operant conditioning","pigeons","histopathology","radiology"],
         "url": "/a%20paper%20a%20day/2026/09/27/pigeons-as-trainable-observers-of-pathology-and-radiology-breast-cancer-images.html",
         "teaser": null
+      },{
+        "title": "Evidence for non-merger co-evolution of galaxies and their supermassive black holes",
+        "excerpt":"A paper a day: day 18 Sometimes I read papers because they are relevant to some problem I’m trying to solve, or a topic I’m interested in. Sometimes I read them because they are referenced a lot in textbooks (for old classic ones), or media (for new trendy ones), and...","categories": ["A paper a day"],
+        "tags": ["astrophysics","black holes","galaxy evolution"],
+        "url": "/a%20paper%20a%20day/2026/09/28/evidence-for-non-merger-co-evolution-of-galaxies-and-their-supermassive-black-holes.html",
+        "teaser": null
       }]
