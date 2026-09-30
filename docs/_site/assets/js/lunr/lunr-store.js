@@ -106,4 +106,10 @@ var store = [{
         "tags": ["astrophysics","black holes","galaxy evolution"],
         "url": "/a%20paper%20a%20day/2026/09/28/evidence-for-non-merger-co-evolution-of-galaxies-and-their-supermassive-black-holes.html",
         "teaser": null
+      },{
+        "title": "Investigation of nonlocal transport associated with the orbital Hall effect in Ti",
+        "excerpt":"A paper a day: day 19 Today’s paper was kind of an unintended read: it is not about the spin Hall effect that I was trying to read up on, but rather orbital Hall effect: charge current can induce a perpendicular flow of orbital angular momentum. The experiment design is...","categories": ["A paper a day"],
+        "tags": ["hall effect","electromagnetism"],
+        "url": "/a%20paper%20a%20day/2026/09/29/investigation-of-nonlocal-transport-associated-with-the-orbital-hall-effect-in-ti.html",
+        "teaser": null
       }]
