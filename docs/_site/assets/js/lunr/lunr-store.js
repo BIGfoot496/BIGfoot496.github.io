@@ -112,4 +112,10 @@ var store = [{
         "tags": ["hall effect","electromagnetism"],
         "url": "/a%20paper%20a%20day/2026/09/29/investigation-of-nonlocal-transport-associated-with-the-orbital-hall-effect-in-ti.html",
         "teaser": null
+      },{
+        "title": "Spin-polarized electron transport for the altermagnet CrSb",
+        "excerpt":"A paper a day: day 20 Today’s paper is yet another work-related one, but now in a slightly different way: it was written by my advisor’s group. It is related to what I’ll be doing, though, so it was doubly useful (to be fair, my advisor was the one who...","categories": ["A paper a day"],
+        "tags": ["hall effect","electromagnetism"],
+        "url": "/a%20paper%20a%20day/2026/09/30/spin-polarized-electron-transport-for-the-altermagnet-crsb.html",
+        "teaser": null
       }]
