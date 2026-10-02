@@ -6,8 +6,8 @@ date: 2026-09-27
 tags: 
     - operant conditioning
     - pigeons
-    - histopathology
-    - radiology
+    - medical imaging
+    - vision
 ---
 
 ## A paper a day: day 17

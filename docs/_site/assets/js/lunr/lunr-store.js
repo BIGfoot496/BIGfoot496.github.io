@@ -97,7 +97,7 @@ var store = [{
       },{
         "title": "Pigeons (Columba livia) as Trainable Observers of Pathology and Radiology Breast Cancer Images",
         "excerpt":"A paper a day: day 17 Today’s paper is one of those “could be cool” kinds of experiment. Skinner did get an Ig Nobel for pigeon missiles, after all, so why can’t pigeon histopathologists work just as well? And yup, they do. The experiment design was eerily similar to basic...","categories": ["A paper a day"],
-        "tags": ["operant conditioning","pigeons","histopathology","radiology"],
+        "tags": ["operant conditioning","pigeons","medical imaging","vision"],
         "url": "/a%20paper%20a%20day/2026/09/27/pigeons-as-trainable-observers-of-pathology-and-radiology-breast-cancer-images.html",
         "teaser": null
       },{
@@ -109,13 +109,25 @@ var store = [{
       },{
         "title": "Investigation of nonlocal transport associated with the orbital Hall effect in Ti",
         "excerpt":"A paper a day: day 19 Today’s paper was kind of an unintended read: it is not about the spin Hall effect that I was trying to read up on, but rather orbital Hall effect: charge current can induce a perpendicular flow of orbital angular momentum. The experiment design is...","categories": ["A paper a day"],
-        "tags": ["hall effect","electromagnetism"],
+        "tags": ["hall effect","electromagnetism","condensed matter"],
         "url": "/a%20paper%20a%20day/2026/09/29/investigation-of-nonlocal-transport-associated-with-the-orbital-hall-effect-in-ti.html",
+        "teaser": null
+      },{
+        "title": "Spin Hall effect, Hall effect and spin precession in diffusive normal metals",
+        "excerpt":"A paper a day: day 20 Today’s paper I read trying to find where the value for spin-orbit coupling constant in aluminum \\(\\alpha=0.006\\) comes from (question arose while reading another paper, where there was an aluminum Hall cross, and there was a tiny but measurable spin Hall transverse voltage). That...","categories": ["A paper a day"],
+        "tags": ["hall effect","electromagnetism","condensed matter"],
+        "url": "/a%20paper%20a%20day/2026/09/30/spin-hall-effect-hall-effect-and-spin-precession-in-diffusive-normal-metals.html",
         "teaser": null
       },{
         "title": "Spin-polarized electron transport for the altermagnet CrSb",
         "excerpt":"A paper a day: day 20 Today’s paper is yet another work-related one, but now in a slightly different way: it was written by my advisor’s group. It is related to what I’ll be doing, though, so it was doubly useful (to be fair, my advisor was the one who...","categories": ["A paper a day"],
-        "tags": ["hall effect","electromagnetism"],
+        "tags": ["hall effect","electromagnetism","condensed matter"],
         "url": "/a%20paper%20a%20day/2026/09/30/spin-polarized-electron-transport-for-the-altermagnet-crsb.html",
+        "teaser": null
+      },{
+        "title": "Collatz, but stop at the drop",
+        "excerpt":"A paper a day: day 22 Today’s paper comes to me from Sequence Fanatics mailing list, of which I’ve been a member (mostly lurking) for almost six years now. It’s a place of informal conversation for contributors of OEIS – Online Encyclopedia of Integer Sequences, and one of my favourite...","categories": ["A paper a day"],
+        "tags": ["recreational mathematics","oeis","collatz conjecture"],
+        "url": "/a%20paper%20a%20day/2026/10/01/collatz-but-stop-at-the-drop.html",
         "teaser": null
       }]

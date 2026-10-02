@@ -6,6 +6,7 @@ date: 2026-09-29
 tags: 
     - hall effect
     - electromagnetism
+    - condensed matter
 ---
 
 ## A paper a day: day 19
