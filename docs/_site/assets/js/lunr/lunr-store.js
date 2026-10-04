@@ -120,14 +120,26 @@ var store = [{
         "teaser": null
       },{
         "title": "Spin-polarized electron transport for the altermagnet CrSb",
-        "excerpt":"A paper a day: day 20 Today’s paper is yet another work-related one, but now in a slightly different way: it was written by my advisor’s group. It is related to what I’ll be doing, though, so it was doubly useful (to be fair, my advisor was the one who...","categories": ["A paper a day"],
+        "excerpt":"A paper a day: day 21 Today’s paper is yet another work-related one, but now in a slightly different way: it was written by my advisor’s group. It is related to what I’ll be doing, though, so it was doubly useful (to be fair, my advisor was the one who...","categories": ["A paper a day"],
         "tags": ["hall effect","electromagnetism","condensed matter"],
-        "url": "/a%20paper%20a%20day/2026/09/30/spin-polarized-electron-transport-for-the-altermagnet-crsb.html",
+        "url": "/a%20paper%20a%20day/2026/10/01/spin-polarized-electron-transport-for-the-altermagnet-crsb.html",
         "teaser": null
       },{
         "title": "Collatz, but stop at the drop",
         "excerpt":"A paper a day: day 22 Today’s paper comes to me from Sequence Fanatics mailing list, of which I’ve been a member (mostly lurking) for almost six years now. It’s a place of informal conversation for contributors of OEIS – Online Encyclopedia of Integer Sequences, and one of my favourite...","categories": ["A paper a day"],
         "tags": ["recreational mathematics","oeis","collatz conjecture"],
         "url": "/a%20paper%20a%20day/2026/10/01/collatz-but-stop-at-the-drop.html",
+        "teaser": null
+      },{
+        "title": "Spin Hall effect",
+        "excerpt":"A paper a day: day 23 Today’s paper took me more than a week to read, and to be completely honest, I still have not finished certain parts, mainly in the theory section. It is a survey of the whole spin Hall effect field circa ten years ago, written by...","categories": ["A paper a day"],
+        "tags": ["condensed matter","hall effect","electromagnetism"],
+        "url": "/a%20paper%20a%20day/2026/10/02/spin-hall-effect.html",
+        "teaser": null
+      },{
+        "title": "Magnetic-field-induced nonlocal transport in the topological semimetal ZrTe<sub>5</sub>",
+        "excerpt":"A paper a day: day 24 Today’s paper was very interesting to me, because it is the closest thing I could find to someone already having performed the experiments I am (likely) going to do during my PhD programme. The material’s not the same (at least I don’t think so,...","categories": ["A paper a day"],
+        "tags": ["condensed matter","hall effect","electromagnetism"],
+        "url": "/a%20paper%20a%20day/2026/10/03/magnetic-field-induced-nonlocal-transport-in-the-topological-semimetal-zrte5.html",
         "teaser": null
       }]
