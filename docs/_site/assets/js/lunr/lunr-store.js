@@ -142,4 +142,16 @@ var store = [{
         "tags": ["condensed matter","hall effect","electromagnetism"],
         "url": "/a%20paper%20a%20day/2026/10/03/magnetic-field-induced-nonlocal-transport-in-the-topological-semimetal-zrte5.html",
         "teaser": null
+      },{
+        "title": "You could have invented Fenwick trees",
+        "excerpt":"A paper a day: day 25 Today’s paper I decided to read after refreshing in my mind the Lucy_Hedgehog’s algorithm for calculating the prime counting function. The blogpost uses a data structure called Fenwick (or binary indexed) trees to improve the asymptotics of Lucy_Hedgehog, but it very explicitly treats them...","categories": ["A paper a day"],
+        "tags": ["functional programming","binary trees","haskell","algorithms"],
+        "url": "/a%20paper%20a%20day/2026/10/04/you-could-have-invented-fenwick-trees.html",
+        "teaser": null
+      },{
+        "title": "Absence of backscattering in the quantum Hall effect in multiprobe conductors",
+        "excerpt":"A paper a day: day 26 I’ve returned, sorta. It turns out that reading a paper a day is much easier when reading papers is your main activity. Now I’m enrolled in a PhD programme (woohooo!), and… tbh, reading papers is still my main activity, so maybe I’m just whining....","categories": ["A paper a day"],
+        "tags": ["quantum mechanics","hall effect","condensed matter","electromagnetism"],
+        "url": "/a%20paper%20a%20day/2026/10/28/absence-of-backscattering-in-the-quantum-hall-effect-in-multiprobe-conductors.html",
+        "teaser": null
       }]
