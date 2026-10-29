@@ -7,6 +7,7 @@ tags:
     - hall effect
     - electromagnetism
     - condensed matter
+    - altermagnetism
 ---
 
 ## A paper a day: day 21

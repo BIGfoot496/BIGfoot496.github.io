@@ -121,7 +121,7 @@ var store = [{
       },{
         "title": "Spin-polarized electron transport for the altermagnet CrSb",
         "excerpt":"A paper a day: day 21 Today’s paper is yet another work-related one, but now in a slightly different way: it was written by my advisor’s group. It is related to what I’ll be doing, though, so it was doubly useful (to be fair, my advisor was the one who...","categories": ["A paper a day"],
-        "tags": ["hall effect","electromagnetism","condensed matter"],
+        "tags": ["hall effect","electromagnetism","condensed matter","altermagnetism"],
         "url": "/a%20paper%20a%20day/2026/10/01/spin-polarized-electron-transport-for-the-altermagnet-crsb.html",
         "teaser": null
       },{
@@ -139,7 +139,7 @@ var store = [{
       },{
         "title": "Magnetic-field-induced nonlocal transport in the topological semimetal ZrTe<sub>5</sub>",
         "excerpt":"A paper a day: day 24 Today’s paper was very interesting to me, because it is the closest thing I could find to someone already having performed the experiments I am (likely) going to do during my PhD programme. The material’s not the same (at least I don’t think so,...","categories": ["A paper a day"],
-        "tags": ["condensed matter","hall effect","electromagnetism"],
+        "tags": ["condensed matter","hall effect","electromagnetism","topological matter"],
         "url": "/a%20paper%20a%20day/2026/10/03/magnetic-field-induced-nonlocal-transport-in-the-topological-semimetal-zrte5.html",
         "teaser": null
       },{
@@ -153,5 +153,11 @@ var store = [{
         "excerpt":"A paper a day: day 26 I’ve returned, sorta. It turns out that reading a paper a day is much easier when reading papers is your main activity. Now I’m enrolled in a PhD programme (woohooo!), and… tbh, reading papers is still my main activity, so maybe I’m just whining....","categories": ["A paper a day"],
         "tags": ["quantum mechanics","hall effect","condensed matter","electromagnetism"],
         "url": "/a%20paper%20a%20day/2026/10/28/absence-of-backscattering-in-the-quantum-hall-effect-in-multiprobe-conductors.html",
+        "teaser": null
+      },{
+        "title": "Observation of Two-Dimensional Plasmons and Electron-Ripplon Scattering in a Sheet of Electrons on Liquid Helium",
+        "excerpt":"A paper a day: day 26 Could not find a good new paper to cover today, so decided to write about one that was mentioned at the conference several weeks ago and I promptly read during a particularly boring talk. This paper has basically created plasmonics as a field (not...","categories": ["A paper a day"],
+        "tags": ["quantum mechanics","condensed matter","liquid helium"],
+        "url": "/a%20paper%20a%20day/2026/10/29/observation-of-two-dimensional-plasmons-and-electron-ripplon-scattering.html",
         "teaser": null
       }]
